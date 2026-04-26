@@ -47,7 +47,8 @@ The UI will process the user's grid state and provide realtime feedback:
 To run the interactive applications locally, ensure you have Python installed, and follow these instructions:
 
 1. **Clone the repository**:
-   ```bash(https://github.com/abdulWahid77/AI_ProblemSolving_-RA2411026050250-_-_RA2411026050267-.git)
+   ```bash
+   (https://github.com/abdulWahid77/AI_ProblemSolving_-RA2411026050250-_-_RA2411026050267-.git)
    ```
 
 2. **Install the requirements**:
