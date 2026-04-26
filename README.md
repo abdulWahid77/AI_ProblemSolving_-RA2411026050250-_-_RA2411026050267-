@@ -4,7 +4,7 @@
 **Register Number:** RA2411026050284 / RA2411026050291 
 **Class:** AIML-E  
 
-![Application Screenshot](screenshots/app.png)
+![Application Screenshot]![image alt](https://github.com/abdulWahid77/AI_ProblemSolving_-RA2411026050250-_-_RA2411026050267-/blob/0913f77d82fe866733edd306fd89903d785e4971/homepage.png)
 
 This repository contains the interactive solutions to two AI Problem Statements implemented using a Python Flask backend and a modern HTML/CSS/JS frontend.
 
