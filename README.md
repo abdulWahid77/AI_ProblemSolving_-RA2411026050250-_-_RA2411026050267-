@@ -1,8 +1,8 @@
 # AI Problem Solving Assignment
 
-##Name:** Abdul Wahd S / Shiyam Sankar S
-##Register Number:** RA2411026050250 / RA2411026050267 
-##Class:** AIML-D  
+## Name:** Abdul Wahd S / Shiyam Sankar S
+## Register Number:** RA2411026050250 / RA2411026050267 
+## Class:** AIML-D  
 
 [Application Screenshot]<img src = "homepage.png" >
 
