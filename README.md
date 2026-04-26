@@ -48,8 +48,7 @@ To run the interactive applications locally, ensure you have Python installed, a
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/niwaesmathavan-pixel/AI-Problem-Solving-Assignment-Reg-No-RA2411026050284--Reg-No-RA2411026050291.git
-   cd AI-Problem-Solving-Assignment
+(https://github.com/abdulWahid77/AI_ProblemSolving_-RA2411026050250-_-_RA2411026050267-.git)
    ```
 
 2. **Install the requirements**:
