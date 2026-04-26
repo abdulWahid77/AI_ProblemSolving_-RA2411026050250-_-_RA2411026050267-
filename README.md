@@ -1,8 +1,8 @@
 # AI Problem Solving Assignment
 
-**Name:** Niwaes M  / Tamilarsan A
-**Register Number:** RA2411026050284 / RA2411026050291 
-**Class:** AIML-E  
+**Name:** Abdul Wahd S / Shiyam Sankar S
+**Register Number:** RA2411026050250 / RA2411026050267 
+**Class:** AIML-D  
 
 ![Application Screenshot]<img src = "homepage.png" >
 
