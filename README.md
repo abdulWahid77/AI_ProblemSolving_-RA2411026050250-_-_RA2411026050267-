@@ -1,8 +1,8 @@
 # AI Problem Solving Assignment
 
-**Name:** Niwaes M  / Tamilarsan A
-**Register Number:** RA2411026050284 / RA2411026050291 
-**Class:** AIML-E  
+**Name:** Adbul Wahid S  / Shiyam Shankar S
+**Register Number:** RA2411026050250 / RA2411026050267 
+**Class:** AIML-D  
 
 ![Application Screenshot]![image alt](https://github.com/abdulWahid77/AI_ProblemSolving_-RA2411026050250-_-_RA2411026050267-/blob/0913f77d82fe866733edd306fd89903d785e4971/homepage.png)
 
@@ -48,7 +48,7 @@ To run the interactive applications locally, ensure you have Python installed, a
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/niwaesmathavan-pixel/AI-Problem-Solving-Assignment-Reg-No-RA2411026050284--Reg-No-RA2411026050291.git
+   git clone https://github.com/niwaesmathavan-pixel/AI-Problem-Solving-Assignment-Reg-No-RA2411026050250--Reg-No-RA2411026050267.git
    cd AI-Problem-Solving-Assignment
    ```
 
